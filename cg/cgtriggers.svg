@@ -1,68 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="Layer_1" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="ps4-triggers.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 199.9 90.8"
-	 style="enable-background:new 0 0 199.9 90.8;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:url(#path1079_1_);}
-	.st2{opacity:8.000000e-02;}
-	.st3{fill:#C3F415;}
-	.st4{fill:url(#path1095_1_);}
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="199.9px"
+   height="90.8px"
+   viewBox="-859 495.2 199.9 90.8"
+   style="enable-background:new -859 495.2 199.9 90.8;"
+   xml:space="preserve"
+   sodipodi:docname="jstntrigger.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata10375"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs10373" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview10371"
+   showgrid="false"
+   inkscape:zoom="1.4407204"
+   inkscape:cx="99.949997"
+   inkscape:cy="45.400002"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style10336">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
 </style>
-<pattern  y="90.8" width="199.9" height="90.8" patternUnits="userSpaceOnUse" id="pattern1857" viewBox="0 -90.8 199.9 90.8" style="overflow:visible;">
-	<g>
-		<rect y="-90.8" class="st0" width="199.9" height="90.8"/>
+<g
+   id="g10352">
+	<g
+   id="g10342">
+		<path
+   class="st0"
+   d="M-659.1,586c0,0-32.7-3.2-50.6-3.2c-17.9,0-48.3,2.4-48.3,2.4s3.1-44.7,4.8-52c1.6-7.3,7.7-21.3,16.9-27.9    c9.2-6.7,12-10.1,22.8-10.1s25.4,6.4,34.6,21.4C-669.8,531.6-659.1,586-659.1,586z"
+   id="path10338"
+   style="fill:#c3f415;fill-opacity:1" />
+		<path
+   class="st1"
+   d="M-757.5,578.4c0,0,26.1-4.4,49-4.4c22.8,0,47.9,4.4,47.9,4.4c1,4.7,1.6,7.6,1.6,7.6s-32.7-3.2-50.6-3.2    s-48.3,2.4-48.3,2.4S-757.9,582.5-757.5,578.4z"
+   id="path10340"
+   style="fill:#c7ff00;fill-opacity:1" />
 	</g>
-</pattern>
-<pattern  y="90.8" width="199.9" height="90.8" patternUnits="userSpaceOnUse" id="pattern1859" viewBox="0 -90.8 199.9 90.8" style="overflow:visible;">
-	<g>
-		<rect y="-90.8" class="st0" width="199.9" height="90.8"/>
-	</g>
-</pattern>
-<title  id="title1861">ps4-triggers.svg</title>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview1110" inkscape:current-layer="Layer_1" inkscape:cx="99.949997" inkscape:cy="45.400002" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="3.1349909" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<g id="g1091">
-	<g id="g1081">
-		<path id="path1077" d="M199.9,90.8c0,0-32.7-3.2-50.6-3.2C131.4,87.6,101,90,101,90s3.1-44.7,4.8-52c1.6-7.3,7.7-21.3,16.9-27.9
-			c9.2-6.7,12-10.1,22.8-10.1s25.4,6.4,34.6,21.4C189.2,36.4,199.9,90.8,199.9,90.8z"/>
-		<pattern  id="path1079_1_" xlink:href="#pattern1857" patternTransform="matrix(1.3086 0 0 -1.0928 1889.1377 -17140.9961)">
-		</pattern>
-		<path id="path1079" inkscape:connector-curvature="0" class="st1" d="M101.5,83.2c0,0,26.1-4.4,49-4.4c22.8,0,47.9,4.4,47.9,4.4
-			c1,4.7,1.6,7.6,1.6,7.6s-32.7-3.2-50.6-3.2c-17.9,0-48.3,2.4-48.3,2.4S101.1,87.3,101.5,83.2L101.5,83.2z"/>
-	</g>
-	<g id="g1089" class="st2">
-		<g id="g1085">
-			<path id="path1083" inkscape:connector-curvature="0" class="st3" d="M151.5,65.7c-2.1,1.7-3.2,2.6-3.2,2.6
-				c-1.2,1.2-1.9,2.7-2,4.5h9.8v-2.6h-6.2c0.3-0.5,1-1.2,2.1-1.9c1.4-0.9,2.3-1.6,2.7-2.1c0.9-1,1.3-2.1,1.3-3.3
-				c0-1.4-0.5-2.5-1.4-3.3s-2.1-1.2-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7c0-1.8,0.7-2.7,2.1-2.7c1.3,0,2,0.7,2,2.1
-				C153.2,63.9,152.6,64.8,151.5,65.7L151.5,65.7z"/>
+	<g
+   class="st2"
+   id="g10350">
+		<g
+   id="g10346">
+			<path
+   d="M-707.5,560.9c-2.1,1.7-3.2,2.6-3.2,2.6c-1.2,1.2-1.9,2.7-2,4.5h9.8v-2.6h-6.2c0.3-0.5,1-1.2,2.1-1.9     c1.4-0.9,2.3-1.6,2.7-2.1c0.9-1,1.3-2.1,1.3-3.3c0-1.4-0.5-2.5-1.4-3.3c-0.9-0.8-2.1-1.2-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7     c0-1.8,0.7-2.7,2.1-2.7c1.3,0,2,0.7,2,2.1C-705.8,559.1-706.4,560-707.5,560.9z"
+   id="path10344" />
 		</g>
-		<path id="path1087" inkscape:connector-curvature="0" class="st3" d="M133.9,67.2h3c1.5,0,2.3,0.6,2.4,1.9
-			c0.1,1.2,0.2,2.5,0.3,3.8h3.3v-0.4c-0.5-0.2-0.7-0.7-0.7-1.5c0-0.2,0-0.4,0.1-0.8v-0.7c0-1.7-0.6-2.9-1.8-3.5
-			c1.4-0.5,2.2-1.6,2.2-3.4c0-1.3-0.4-2.3-1.3-3c-0.8-0.7-1.9-1-3.2-1h-7.3v14.2h3V67.2z M133.9,61h3.7c1.4,0,2.1,0.6,2.1,1.9
-			c0,1.3-0.8,1.9-2.3,1.9h-3.5V61z"/>
+		<path
+   d="M-725.1,562.4h3c1.5,0,2.3,0.6,2.4,1.9c0.1,1.2,0.2,2.5,0.3,3.8h3.3v-0.4c-0.5-0.2-0.7-0.7-0.7-1.5c0-0.2,0-0.4,0.1-0.8    v-0.7c0-1.7-0.6-2.9-1.8-3.5c1.4-0.5,2.2-1.6,2.2-3.4c0-1.3-0.4-2.3-1.3-3c-0.8-0.7-1.9-1-3.2-1h-7.3V568h3V562.4z M-725.1,556.2    h3.7c1.4,0,2.1,0.6,2.1,1.9c0,1.3-0.8,1.9-2.3,1.9h-3.5V556.2z"
+   id="path10348" />
 	</g>
 </g>
-<g id="g1107">
-	<g id="g1097">
-		<path id="path1093" d="M0,90.8c0,0,32.7-3.2,50.6-3.2c17.9,0,48.3,2.4,48.3,2.4s-3.1-44.7-4.8-52c-1.6-7.3-7.7-21.3-16.9-27.9
-			S65.2,0,54.4,0S29,6.4,19.8,21.4C10.7,36.4,0,90.8,0,90.8z"/>
-		<pattern  id="path1095_1_" xlink:href="#pattern1859" patternTransform="matrix(1.7801 0 0 -1.1047 5771.3389 -17252.1113)">
-		</pattern>
-		<path id="path1095" inkscape:connector-curvature="0" class="st4" d="M98.4,83.2c0,0-26.1-4.4-49-4.4c-22.8,0-47.9,4.4-47.9,4.4
-			c-1,4.7-1.6,7.6-1.6,7.6s32.7-3.2,50.6-3.2c17.9,0,48.3,2.4,48.3,2.4S98.8,87.3,98.4,83.2L98.4,83.2z"/>
+<g
+   id="g10368">
+	<g
+   id="g10358">
+		<path
+   class="st0"
+   d="M-859,586c0,0,32.7-3.2,50.6-3.2c17.9,0,48.3,2.4,48.3,2.4s-3.1-44.7-4.8-52c-1.6-7.3-7.7-21.3-16.9-27.9    s-12-10.1-22.8-10.1c-10.8,0-25.4,6.4-34.6,21.4C-848.3,531.6-859,586-859,586z"
+   id="path10354"
+   style="fill:#c3f415;fill-opacity:1" />
+		<path
+   class="st1"
+   d="M-760.6,578.4c0,0-26.1-4.4-49-4.4c-22.8,0-47.9,4.4-47.9,4.4c-1,4.7-1.6,7.6-1.6,7.6s32.7-3.2,50.6-3.2    s48.3,2.4,48.3,2.4S-760.2,582.5-760.6,578.4z"
+   id="path10356"
+   style="fill:#c7ff00;fill-opacity:1" />
 	</g>
-	<g id="g1105" class="st2">
-		<g id="g1101">
-			<path id="path1099" inkscape:connector-curvature="0" class="st3" d="M64.5,65.7c-2.1,1.7-3.2,2.6-3.2,2.6
-				c-1.2,1.2-1.9,2.7-2,4.5h9.8v-2.6h-6.2c0.3-0.5,1-1.2,2.1-1.9c1.4-0.9,2.3-1.6,2.7-2.1c0.9-1,1.3-2.1,1.3-3.3
-				c0-1.4-0.5-2.5-1.4-3.3s-2.1-1.2-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7c0-1.8,0.7-2.7,2.1-2.7c1.3,0,2,0.7,2,2.1
-				C66.2,63.9,65.7,64.8,64.5,65.7L64.5,65.7z"/>
+	<g
+   class="st2"
+   id="g10366">
+		<g
+   id="g10362">
+			<path
+   d="M-794.5,560.9c-2.1,1.7-3.2,2.6-3.2,2.6c-1.2,1.2-1.9,2.7-2,4.5h9.8v-2.6h-6.2c0.3-0.5,1-1.2,2.1-1.9     c1.4-0.9,2.3-1.6,2.7-2.1c0.9-1,1.3-2.1,1.3-3.3c0-1.4-0.5-2.5-1.4-3.3c-0.9-0.8-2.1-1.2-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7     c0-1.8,0.7-2.7,2.1-2.7c1.3,0,2,0.7,2,2.1C-792.8,559.1-793.3,560-794.5,560.9z"
+   id="path10360"
+    />
 		</g>
-		<path id="polygon1103" inkscape:connector-curvature="0" class="st3" d="M56,70.2h-7.1V58.5h-3v14.3H56V70.2z"/>
+		<polygon
+   points="-803,565.4 -810.1,565.4 -810.1,553.7 -813.1,553.7 -813.1,568 -803,568   "
+   id="polygon10364" 
+/>
 	</g>
 </g>
 </svg>
