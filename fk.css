@@ -1,0 +1,231 @@
+.controller.edit {
+  background:   url(cg/chaos.png), url(cg/cgbase.svg);
+  background-postion: absolute;
+    width: 806px;
+    height: 599px;
+  background-position-x: 0px;
+  background-repeat:no-repeat;
+}
+
+.edit.disconnected {
+  background: url();
+}
+
+.edit .triggers{
+    width: 588px;
+    height: 90px;
+    position: absolute;
+    left: 109px;
+}
+.edit .trigger{
+    width: 99px;
+    height: 100%;
+    background: url(cg/cgtriggers.svg);
+    opacity: 0;
+}
+
+.edit .trigger.left{
+    float: left;
+}
+.edit .trigger.right{
+    float: right;
+    background-position-x: 99px;
+}
+
+.edit .bumper{
+    width: 99px;
+    height: 23px;
+    background: url(cg/cgbump.svg) no-repeat;
+    opacity: 0;
+
+}
+.edit .bumpers{
+    position: absolute;
+    width: 588px;
+    height: 23px;
+    left: 109px;
+    top: 94px;
+}
+
+.edit .bumper.pressed{
+    opacity: 1;
+}
+
+.edit .bumper.left{
+    float: left;
+}
+
+.edit .bumper.right{
+    float: right;
+    transform: rotateY(180deg);
+}
+
+.edit .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+}
+
+.edit .touchpad.pressed {
+    background: url() no-repeat center;
+}
+
+.edit .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.edit .meta.pressed {
+    background: url() no-repeat center;
+}
+
+.edit .arrows {
+    position: absolute;
+    width: 352px;
+    height: 46px;
+    top: 142px;
+    left: 227px;
+}
+
+.edit .back, .edit .start{
+    background: url(cg/cgstart.svg);
+    width: 28px;
+    height: 46px;
+    opacity: 0;
+}
+
+.edit .back.pressed, .edit .start.pressed{
+    opacity: 1;
+}
+
+.edit .back{
+    float: left;
+}
+
+.edit .start{
+    float: right;
+    background-position: 28px 0;
+}
+
+.edit .abxy{
+    position: absolute;
+    width: 170px;
+    height: 171px;
+    top: 159px;
+    left: 567px;
+}
+
+.edit .button{
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(cg/cgabxy.svg);
+}
+.edit .button.pressed{
+    background-position-y: 55px;
+
+}
+
+.edit .a{
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.edit .b{
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.edit .x{
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.edit .y{
+    background-position: 55px 0;
+    left: 58px;
+}
+
+.edit .sticks {
+    position: absolute;
+    width: 361px;
+    height: 105px;
+    top: 308px;
+    left: 228px;
+}
+
+.edit .stick{
+    position: absolute;
+    background: url(cg/cgsticks.svg);
+    height: 94px;
+    width: 94px;
+}
+
+.edit .stick.pressed.left {
+   background-position-x: -96px;
+}
+
+.edit .stick.pressed.right {
+   background-position-x: -192px;
+}
+
+.edit .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.edit .stick.right {
+    top: calc(100% - 105px);
+    left: calc(100% - 105px);
+}
+
+.edit .dpad{
+    position: absolute;
+    width: 125px;
+    height: 126px;
+    top: 181px;
+    left: 92px;
+}
+
+.edit .face{
+    background: url(cg/cgarrow.svg);
+    position: absolute;
+}
+
+.edit .face.up, .edit .face.down{
+    width: 36px;
+    height: 52px;
+}
+.edit .face.left, .edit .face.right{
+    width: 52px;
+    height: 36px;
+}
+.edit .face.up{
+    left: 44px;
+    top: 0;
+    background-position: -37px 0px;
+}
+.edit .face.down{
+    left: 44px;
+    bottom: 0;
+    background-position: 0px 0;
+}
+.edit .face.left{
+    top: 45px;
+    left: 0;
+    background-position: 104px 0;
+}
+.edit .face.right{
+    top: 45px;
+    right: 0px;
+    background-position: 52px 0;
+}
+.edit .face.pressed{
+    background-position-y: 52px;
