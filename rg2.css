@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(rge2/rgebase.svg);
+  background:   url(rg2/rgebase.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(rge2/rgeabxy.svg);
+    background: url(rg2/rgeabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(rge2/rgesticks.svg);
+    background: url(rg2/rgesticks.svg);
     height: 94px;
     width: 94px;
 }
