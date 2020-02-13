@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(rge2/rgebase.svg), url(rge2/Untitled1.png);
+  background:   url(rge2/Untitled1.png) url(rge2/rgebase.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
