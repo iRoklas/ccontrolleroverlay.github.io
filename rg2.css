@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(rg2/rgeabxy.svg);
+    background: url(fk/cgabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(rg2/rgesticks.svg);
+    background: url(fk/cgsticks.svg);
     height: 94px;
     width: 94px;
 }
