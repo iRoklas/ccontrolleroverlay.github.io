@@ -6,7 +6,7 @@
 	 style="enable-background:new 0 0 224 112.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
-	.st1{fill:#C3F415;}
+	.st1{fill:#f34615;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview4205" inkscape:current-layer="Layer_1" inkscape:cx="112" inkscape:cy="56.150002" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="1.9792619" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
 	</sodipodi:namedview>
@@ -100,4 +100,9 @@
 		</g>
 	</g>
 </g>
+<linearGradient id="st1" x1="0" x2="0" y1="0" y2="1">
+        <stop offset="0%" stop-color="red"/>
+        <stop offset="50%" stop-color="black" stop-opacity="0"/>
+        <stop offset="100%" stop-color="blue"/>
+</linearGradient>
 </svg>
