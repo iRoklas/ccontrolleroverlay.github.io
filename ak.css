@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(ak/akbase.svg);
+  background:   url(ak/aklogo.png), url(ak/akbase.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
