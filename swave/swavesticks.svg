@@ -53,6 +53,13 @@
 	.st4{fill:#30D5CD;}
 	.st5{fill:#1FD2C6;}
 </style>
+	
+	<defs>
+        <linearGradient id="MyGradient" gradientTransform="rotate(95)">
+          <stop offset="5%" stop-color="#3fe09b" />
+          <stop offset="95%" stop-color="#3a47e4" />
+        </linearGradient>
+      </defs>
 <g
    id="g2937">
 	<g
@@ -65,9 +72,10 @@
    class="st0"
    d="M-769,586.5c-25.1,0-45.5-20.4-45.5-45.5s20.4-45.5,45.5-45.5s45.5,20.4,45.5,45.5S-743.9,586.5-769,586.5z      "
    id="path2887"
-   style="fill:#ffffff;fill-opacity:1" />
+   style="fill:url(#MyGradient);fill-opacity:1" />
 				<g
    id="g2891">
+					
 					<path
    class="st1"
    d="M-769,497c24.3,0,44,19.7,44,44s-19.7,44-44,44s-44-19.7-44-44S-793.3,497-769,497 M-769,494       c-26,0-47,21-47,47s21,47,47,47s47-21,47-47S-743,494-769,494L-769,494z"
