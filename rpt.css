@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(rpt/rptabxy.svg);
+    background: url(rpt/rptaxby.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -195,7 +195,7 @@
 }
 
 .edit .face{
-    background: url(rpt/rptarrow.svg);
+    background: url(rpt/rptarrows.svg);
     position: absolute;
 }
 
