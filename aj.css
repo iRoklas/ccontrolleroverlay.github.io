@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(bat/starwarss.gif), url(bat/starwarsbasee.svg);
+  background:   url(aj/ajlogo.png), url(aj/ajbase.svg);
   background-postion: absolute;
     width: 750px;
     height: 630px;
@@ -8,7 +8,7 @@
 }
 
 .edit.disconnected {
-  background: url(green/xbox-dc.svg);
+  background: url(aj/disconnect.svg);
 }
 
 .edit .quadrant {
@@ -32,7 +32,7 @@
 }
 
 .edit .back, .edit .start {
-    background: url(green/start-select.svg);
+    background: url(aj/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -53,7 +53,7 @@
 
 .edit .button {
   position: absolute;
-  background: url(bat/starwarsabxy.svg);
+  background: url(aj/ajabxy.svg);
 }
 
 .edit .button.pressed {
@@ -88,14 +88,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(bat/swsticks.svg);
+    background: url(aj/ajsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(bat/swsticks.svg);
+    background: url(aj/ajsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
