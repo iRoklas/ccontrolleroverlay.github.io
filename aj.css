@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(aj/Untitled-3.png), url(aj/ajbase.svg);
+  background:   url(bat/starwarss.gif), url(bat/starwarsbasee.svg);
   background-postion: absolute;
     width: 750px;
     height: 630px;
@@ -88,14 +88,14 @@
 
 .edit .stick {
     position: absolute;
-    background: url(aj/ajsticks.svg);
+    background: url(bat/swsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 .edit .stick{
     position: absolute;
-    background: url(aj/ajsticks.svg);
+    background: url(bat/swsticks.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
