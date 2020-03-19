@@ -56,8 +56,8 @@
 	
 	<defs>
         <linearGradient id="MyGradient" gradientTransform="rotate(95)">
-          <stop offset="5%" stop-color="#157ccd" />
-          <stop offset="95%" stop-color="#157ccd" />
+          <stop offset="5%" stop-color="#33bff0" />
+          <stop offset="95%" stop-color="#33bff0" />
         </linearGradient>
       </defs>
 <g
