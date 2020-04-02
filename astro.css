@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(astro/astro.png), url(astro/astrobase.svg);
+  background: url(astro/astro.png), url(astro/astrobase.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
