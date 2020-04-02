@@ -55,11 +55,13 @@
 </style>
 	
 	<defs>
-        <linearGradient id="MyGradient" gradientTransform="rotate(95)">
-          <stop offset="5%" stop-color="#aa0000" />
-          <stop offset="95%" stop-color="#000000" />
+        <linearGradient id="MyGradient" gradientTransform="rotate(90)">
+          <stop class="1" offset="0%" stop-color="#cd00be" />
+          <stop class="2" offset="50%" stop-color="#b400f3" />
+		  <stop class="3" offset="100%" stop-color="#388cff" />
         </linearGradient>
       </defs>
+	
 <g
    id="g2937">
 	<g
