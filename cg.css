@@ -1,5 +1,5 @@
 .controller.edit {
-  background:   url(cg/chs2.png), url(cg/cgbase.svg);
+  background:   url(gabe/gabebase.svg);
   background-postion: absolute;
     width: 806px;
     height: 599px;
@@ -20,7 +20,7 @@
 .edit .trigger{
     width: 99px;
     height: 100%;
-    background: url(cg/cgtriggers.svg);
+    background: url(gabe/gabetriggers.svg);
     opacity: 0;
 }
 
@@ -35,7 +35,7 @@
 .edit .bumper{
     width: 99px;
     height: 23px;
-    background: url(cg/cgbump.svg) no-repeat;
+    background: url(gabe/gabebump.svg) no-repeat;
     opacity: 0;
 
 }
@@ -93,7 +93,7 @@
 }
 
 .edit .back, .edit .start{
-    background: url(cg/cgstart.svg);
+    background: url(gabe/gabestart.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -124,7 +124,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(cg/cgabxy.svg);
+    background: url(gabe/gabeabxy.svg);
 }
 .edit .button.pressed{
     background-position-y: 55px;
@@ -163,7 +163,7 @@
 
 .edit .stick{
     position: absolute;
-    background: url(cg/cgsticks.svg);
+    background: url(gabe/gabesticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -195,7 +195,7 @@
 }
 
 .edit .face{
-    background: url(cg/cgarrow.svg);
+    background: url(gabe/gabearrow.svg);
     position: absolute;
 }
 
